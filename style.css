@@ -1,0 +1,35 @@
+    #container{
+    width:auto; 
+    margin:0 auto; 
+    text-align:left; 
+    }
+    
+    #header{
+    background-color:#E5B4CA;
+    
+    }
+    
+    #left{
+    background-color:#D0E57E; 
+    width:210px; 
+    height: 400px;
+    float:left; 
+    }
+    
+    #left span{
+    color:red;
+    }
+   
+    #content{
+    background-color:#E3E587;
+    height: 400px;
+    margin:0px; 
+    margin-left:181px; 
+    }
+    #clear{
+    clear:left;
+    }
+    
+    #footer{
+    background-color:#B8D8E5;
+    }
